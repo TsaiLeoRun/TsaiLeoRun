@@ -1,3 +1,7 @@
+<!--
+**TsaiLeoRun/TsaiLeoRun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 # Welcome to my Github page.
 
 Hi folks 👋
@@ -20,9 +24,9 @@ Hi folks 👋
 
 Some resolutions in 2021:
 
-- [] Mitzenmacher and Upfal's solution notes.
-- [] Leetcode solutions to 500 problems and detailed notes.
-- [] Codeforces Master Level
-- [] Maths notes: analysis, linear algebra, probability theory, statistics, combinatorics, spectral graph theory
-- [] Algorithmic trading practices (to make a lot of money so I can do whatever I want)
-- [] Run 10km regularly
+- [ ] Mitzenmacher and Upfal's solution notes.
+- [ ] Leetcode solutions to 500 problems and detailed notes.
+- [ ] Codeforces Master Level
+- [ ] Maths notes: analysis, linear algebra, probability theory, statistics, combinatorics, spectral graph theory
+- [ ] Algorithmic trading practices (to make a lot of money so I can do whatever I want)
+- [ ] Run 10km regularly
