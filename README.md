@@ -31,4 +31,4 @@ Some resolutions in 2021:
 - [ ] Algorithmic trading practices (to make a lot of money so I can do whatever I want)
 - [ ] Run 10km regularly
 
-Please visit my GitHub webpage for more information: [tsaileorun.github.io](tsaileorun.github.io "Leran's Homepage")
+Please visit my GitHub webpage for more information: [tsaileorun.github.io/](https://tsaileorun.github.io/ "Leran's Homepage")
