@@ -25,8 +25,8 @@ Hi folks 👋
 Some resolutions in 2021:
 
 - [ ] Mitzenmacher and Upfal's solution notes.
-- [ ] Leetcode solutions to 500 problems and detailed notes.
-- [ ] Codeforces Master Level.
+- [ ] Leetcode solutions to all (~1800) problems and detailed notes.
+- [ ] Codeforces all 700+ rounds problems.
 - [ ] Maths notes: analysis, linear algebra, functional analysis, probability theory, statistics, combinatorics.
 - [ ] Algorithmic trading practices (to make a lot of money so I can do whatever I want).
 - [ ] Run 10km regularly.
